@@ -26,12 +26,18 @@ Ensure you have the following prerequisites installed:
 - TensorFlow-GPU
 - Matplotlib 
 - NumPy 
-- OS 
+- OS
+  
+## Model Link
+1. Interact with HuggingFace Space
+   ```https://huggingface.co/spaces/suriya7/Bird_Classification
 
 ## Installation
 
 1. Clone the repository and install the required dependencies:
 
 ```bash
+   https://github.com/theSuriya/Indian-Bird-Classification.git
    cd your-repository
+
 
