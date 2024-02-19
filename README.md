@@ -37,8 +37,12 @@ Ensure you have the following prerequisites installed:
 
 1. Clone the repository and install the required dependencies:
 
-```bash
+   ```bash
    https://github.com/theSuriya/Indian-Bird-Classification.git
    cd your-repository
+
+## Screenshot
+
+![App Screenshot](B`irdmodel_pic.png)
 
 
