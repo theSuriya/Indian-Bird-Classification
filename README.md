@@ -43,6 +43,6 @@ Ensure you have the following prerequisites installed:
 
 ## Screenshot
 
-![App Screenshot](B`irdmodel_pic.png)
+![App Screenshot](Birdmodel_pic.png)
 
 
