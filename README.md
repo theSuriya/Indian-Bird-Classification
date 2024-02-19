@@ -30,7 +30,8 @@ Ensure you have the following prerequisites installed:
   
 ## Model Link
 1. Interact with HuggingFace Space
-   ```https://huggingface.co/spaces/suriya7/Bird_Classification
+   ```
+   https://huggingface.co/spaces/suriya7/Bird_Classification
 
 ## Installation
 
