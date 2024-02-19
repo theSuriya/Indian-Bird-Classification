@@ -7,10 +7,6 @@ A deep learning model for predicting Indian bird species, implemented in Python 
 
 This project focuses on classifying images of Indian bird species using a deep learning model built with TensorFlow-GPU. The model is capable of predicting one of the 25 bird species included in the dataset.
 
-## Dataset
-
-Describe the dataset used for training and testing the model. Include information about the number of classes, the number of images per class, and any preprocessing steps applied to the data.
-
 ## Features
 
 - TensorFlow-GPU for efficient deep learning model training.
@@ -30,8 +26,8 @@ Ensure you have the following prerequisites installed:
   
 ## Model Link
 1. Interact with HuggingFace Space
-   ```
-   https://huggingface.co/spaces/suriya7/Bird_Classification
+
+https://huggingface.co/spaces/suriya7/Bird_Classification
 
 ## Installation
 
